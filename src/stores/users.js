@@ -44,6 +44,7 @@ export default class Users {
             drinks: ["Beer", "cider", "Rum"],
             isSelected : false,
         } 
+        
     ];
 
     @action
